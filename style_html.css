@@ -1,0 +1,40 @@
+h1 {
+    background: red;
+}
+
+h2 {
+    background: red;
+}
+
+h3 {
+    color: rgba(99, 23, 221, 0.959);
+    border: 5px solid black;
+
+}
+
+.paragraph-1 {
+    background: blue;
+    font-size: 32pt;
+    color: green;
+}
+
+.paragraph-2 {
+    border: 10px solid yellow;
+    border-radius: 5px;
+    font-size: 24pt;
+    margin-bottom: 60px;
+    padding-bottom: 60px;
+    padding-left: 20px;
+}
+
+.paragraph-3 {
+    font-weight: bold;
+    border: 5px solid black;
+    font-size: 20pt;
+    padding-bottom: 20px;
+    padding-left: 15px;
+    padding-top: 20px;
+    font-family: Courier New;
+
+}
+
